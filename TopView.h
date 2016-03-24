@@ -32,4 +32,7 @@
 
 - (void)btnClickWithIndex:(NSInteger)index;
 
+/**
+ *  git版本管理测试
+ */
 @end
